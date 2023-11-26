@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"//","tags":["gardenEntry"]}
 ---
 
+
+---
 ## 动态路由协议分类
 ### 按算法分类
 * 距离矢量路由协议 DV型：RIP、Eigrp、BGP “道听途说”，路标
